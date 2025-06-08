@@ -17,6 +17,38 @@ https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/play
 https://radio.saopaulo01.com.br:10984/stream link de fluxo externo
 #EXTINF:-1,kairos, general carneiro radio
 https://ssl.xcast.com.br:10144/;
+#EXTINF:-1,Antena 1, São Paulo radio
+https://antenaone.crossradio.com.br/stream/2
+#EXTINF:-1,Rádio Gaúcha radio
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Saudade FM radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Alpha FM, São Paulo radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1,Rádio Metropolitana 98.5 FM radio
+https://ice.fabricahost.com.br/metropolitana985sp
+#EXTINF:-1,FM O Dia, Rio de Janeiro radio
+https://streaming.livespanel.com:20000/live
+#EXTINF:-1,Nativa FM, São Paulo radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,Super Rádio Tupi radio
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Só FlashBack radio
+https://servidor40-5.brlogic.com:8122/live
+#EXTINF:-1,Nova Brasil FM radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Rádio Caiobá radio
+https://servidor35.brlogic.com:7094/live
+#EXTINF:-1,Radio Banda B radio
+https://ice.fabricahost.com.br/bandabctb
+#EXTINF:-1,Radio Ouro Verde
+https://servidor18.brlogic.com:7484/live
+#EXTINF:-1,Radio Mercosul
+http://ice.fabricahost.com.br/redemercosulctba
+#EXTINF:-1,Radio Espirita do paraná
+https://ssl.xcast.com.br:7674/;
+#EXTINF:-1,Vibe Mundial
+https://servidor13.brlogic.com:7262/live
 #EXTINF:-1,biturunafm, Bituruna radio
 https://stream02.ouveai.com.br:7008/stream
 #EXTINF:-1,Interativa, Cruz Machado radio
