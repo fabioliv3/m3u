@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Rádio Massa FM, São Paulo radio
+https://stm01.virtualcast.com.br:8000/massasaopaulo
+#EXTINF:-1,Rádio Massa FM, Curitiba radio
+https://stm01.virtualcast.com.br:8118/massacuritiba
+#EXTINF:-1,Verde Vale FM, Uniao da Vitoria radio
+https://ice.fabricahost.com.br/fmverdevale
+#EXTINF:-1,Educadora FM, Uniao da Vitoria radio
+https://cast.youngtech.radio.br/listen/uniguacufm1019/radio
+#EXTINF:-1,Colmeia, Porto Uniao radio
+https://ice.fabricahost.com.br/colmeiaam
+#EXTINF:-1,Jovem Pan, Uniao da Vitoria radio
+https://servidor15.brlogic.com:7992/live
+#EXTINF:-1,CulturaSul, Sao Mateus do Sul radio
+https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/playlist.m3u8
+#EXTINF:-1,Difusora do xisto, Sao Mateus do Sul radio
+https://radio.saopaulo01.com.br:10984/stream link de fluxo externo
+#EXTINF:-1,kairos, general carneiro radio
+https://ssl.xcast.com.br:10144/;
+#EXTINF:-1,biturunafm, Bituruna radio
+https://stream02.ouveai.com.br:7008/stream
+#EXTINF:-1,Interativa, Cruz Machado radio
+https://ssl.xcast.com.br:12006/stream
+#EXTINF:-1,Porto Uniaofm, 87,9 radio
+https://stm42.srvstm.com:7358/;
