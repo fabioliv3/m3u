@@ -13,6 +13,14 @@ https://cast.youngtech.radio.br/listen/uniguacufm1019/radio
 https://ice.fabricahost.com.br/colmeiaam
 #EXTINF:-1,Jovem Pan, Uniao da Vitoria radio
 https://servidor15.brlogic.com:7992/live
+#EXTINF:-1,Clube Canoinhas
+http://icecast.loopert.com/187
+#EXTINF:-1,98 Canoinhas
+https://ice.fabricahost.com.br/radio98fm
+#EXTINF:-1,massa Canoinhas
+https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
+#EXTINF:-1,T FM
+https://s1.mediacp.com.br:8992/stream
 #EXTINF:-1,CulturaSul, Sao Mateus do Sul radio
 https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/playlist.m3u8
 #EXTINF:-1,Difusora do xisto, Sao Mateus do Sul radio
