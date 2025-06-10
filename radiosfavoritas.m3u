@@ -61,7 +61,51 @@ https://ssl.xcast.com.br:7674/;
 https://servidor13.brlogic.com:7262/live
 #EXTINF:-1,biturunafm, Bituruna radio
 https://stream02.ouveai.com.br:7008/stream
-#EXTINF:-1,Interativa, Cruz Machado radio
-https://ssl.xcast.com.br:12006/stream
 #EXTINF:-1,Porto Uniaofm, 87,9 radio
+https://ssl.xcast.com.br:12006/stream
+#EXTINF:-1,Interativa, Cruz Machado radio
 https://stm42.srvstm.com:7358/;
+#EXTINF:-1,Jovem Pan News radio
+https://stream.zeno.fm/vlcraijc6yiuv
+#EXTINF:-1,Rádio Band FM radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,Antena 1, São Paulo radio
+https://antenaone.crossradio.com.br/stream/2
+#EXTINF:-1,Rádio Villa Mix radio
+https://r16.ciclano.io:15032/stream
+#EXTINF:-1,Mix FM, São Paulo radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Jovem Pan radio
+https://stream.zeno.fm/c45wbq2us3buv
+#EXTINF:-1,Rádio Metropolitana 98.5 FM radio
+https://ice.fabricahost.com.br/metropolitana985sp
+#EXTINF:-1,89 FM A Rádio Rock radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1,Radio Motel radio
+https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3
+#EXTINF:-1,FM O Dia, Rio de Janeiro radio
+https://streaming.livespanel.com:20000/live
+#EXTINF:-1,Nativa FM, São Paulo radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=onlineradiobox
+#EXTINF:-1,Super Rádio Tupi radio
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Só FlashBack radio
+https://servidor40-5.brlogic.com:8122/live
+#EXTINF:-1,Rádio Roberto Carlos radio
+https://servidor15-2.brlogic.com:8058/live
+#EXTINF:-1,Rádio Bandeirantes AM radio
+https://radiobandeirantes.band.uol.com.br/
+#EXTINF:-1,Radio Atlântida FM radio
+https://liverdatlbeiramar.rbsdirect.com.br/primary/atl_tra.sdp/playlist.m3u8
+#EXTINF:-1,SulAmérica Paradiso radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/PARADISO.mp3?dist=onlineradiobox
+#EXTINF:-1,Rádio Mania, Rio de Janeiro radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MANIAFM_REDEAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Rádio Nova Instrumental radio
+https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
+#EXTINF:-1,Radio Capital 77.5 FM radio
+https://ice.fabricahost.com.br/capitalfmsp
+#EXTINF:-1,Rádio Flashbacktotal radio
+https://player.painelshoutcast.com.br/proxy/6008
+#EXTINF:-1,Rádio Pagode, São Paulo radio
+http://6d9a.webradio.upx.net.br:9061/stream
