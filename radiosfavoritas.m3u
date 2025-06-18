@@ -111,5 +111,5 @@ https://ice.fabricahost.com.br/capitalfmsp
 https://player.painelshoutcast.com.br/proxy/6008
 #EXTINF:-1,Rádio Pagode, São Paulo radio
 http://6d9a.webradio.upx.net.br:9061/stream
-#EXT-X-STREAM-INF:BANDWIDTH=160069,CODECS="mp4a.40.34"
-chunklist_w1101764764.m3u8
+#EXTINF:-1,Rádio hunter, Sertanejo radio
+https://live.hunter.fm/sertanejo_normal
