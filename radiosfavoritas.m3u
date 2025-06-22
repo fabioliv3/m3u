@@ -14,7 +14,7 @@ https://ice.fabricahost.com.br/colmeiaam
 #EXTINF:-1,Jovem Pan, Uniao da Vitoria radio
 https://servidor15.brlogic.com:7992/live
 #EXTINF:-1,Novo Milenio, São mateus do sul radio
-http://radio2.suaradionanet.net:10102/stream 
+http://radio2.suaradionanet.net:10102/stream 
 #EXTINF:-1,Clube Canoinhas
 http://icecast.loopert.com/187
 #EXTINF:-1,98 Canoinhas
@@ -24,15 +24,13 @@ https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
 #EXTINF:-1,T FM
 https://s1.mediacp.com.br:8992/stream
 #EXTINF:-1,CulturaSul, Sao Mateus do Sul radio
-https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/playlist.m3u8
+https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/chunklist_w125219420.m3u8
 #EXTINF:-1,Difusora do xisto, Sao Mateus do Sul radio
 https://radio.saopaulo01.com.br:10984/stream link de fluxo externo
 #EXTINF:-1,kairos, general carneiro radio
 https://ssl.xcast.com.br:10144/;
 #EXTINF:-1,Antena 1, São Paulo radio
 https://antenaone.crossradio.com.br/stream/2
-#EXTINF:-1,Rádio Gaúcha radio
-https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
 #EXTINF:-1,Saudade FM radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,Alpha FM, São Paulo radio
@@ -71,32 +69,20 @@ https://stm42.srvstm.com:7358/;
 https://stream.zeno.fm/vlcraijc6yiuv
 #EXTINF:-1,Rádio Band FM radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8?dist=onlineradiobox
-#EXTINF:-1,Antena 1, São Paulo radio
-https://antenaone.crossradio.com.br/stream/2
 #EXTINF:-1,Rádio Villa Mix radio
 https://r16.ciclano.io:15032/stream
 #EXTINF:-1,Mix FM, São Paulo radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
 #EXTINF:-1,Jovem Pan radio
 https://stream.zeno.fm/c45wbq2us3buv
-#EXTINF:-1,Rádio Metropolitana 98.5 FM radio
-https://ice.fabricahost.com.br/metropolitana985sp
 #EXTINF:-1,89 FM A Rádio Rock radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=onlineradiobox
 #EXTINF:-1,Radio Motel radio
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3
-#EXTINF:-1,FM O Dia, Rio de Janeiro radio
-https://streaming.livespanel.com:20000/live
-#EXTINF:-1,Nativa FM, São Paulo radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=onlineradiobox
-#EXTINF:-1,Super Rádio Tupi radio
-https://8923.brasilstream.com.br/stream
-#EXTINF:-1,Rádio Só FlashBack radio
-https://servidor40-5.brlogic.com:8122/live
 #EXTINF:-1,Rádio Roberto Carlos radio
 https://servidor15-2.brlogic.com:8058/live
 #EXTINF:-1,Rádio Bandeirantes AM radio
-https://radiobandeirantes.band.uol.com.br/
+https://21933.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/5f277d68-5679-4ba3-b295-7723409e5b27/0/playlist.m3u8
 #EXTINF:-1,Radio Atlântida FM radio
 https://liverdatlbeiramar.rbsdirect.com.br/primary/atl_tra.sdp/playlist.m3u8
 #EXTINF:-1,SulAmérica Paradiso radio
