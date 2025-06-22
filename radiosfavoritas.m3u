@@ -99,9 +99,7 @@ https://player.painelshoutcast.com.br/proxy/6008
 http://6d9a.webradio.upx.net.br:9061/stream
 #EXTINF:-1,Rádio Hunter - Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:-1 group-title="Só Musicas",Pop Sertanejo
+#EXTINF:-1 group-title="Só Musicas",Pop 
 https://live.hunter.fm/pop_normal
 #EXTINF:-1 group-title="Só Musicas",Hunter Master
 https://live.hunter.fm/master_normal
