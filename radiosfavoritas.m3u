@@ -1,145 +1,57 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml"
 
-# --- VALE DO IGUAÇU (PORTO UNIÃO / UNIÃO DA VITÓRIA) ---
-#EXTINF:0 tvg-name="Massa FM Vale do Iguaçu 106.5" group-title="Vale do Iguaçu", Massa FM Vale do Iguaçu 106.5
+# --- VALE DO IGUAÇU ---
+#EXTINF:0 tvg-id="massa.vale" tvg-name="Massa FM Vale 106.5" group-title="Vale do Iguaçu", Massa FM Vale 106.5
 https://ice.fabricahost.com.br/massafmvale
-#EXTINF:0 tvg-name="Verde Vale FM 94.1" group-title="Vale do Iguaçu", Verde Vale FM 94.1
+#EXTINF:0 tvg-id="verdevale.fm" tvg-name="Verde Vale FM 94.1" group-title="Vale do Iguaçu", Verde Vale FM 94.1
 https://ice.fabricahost.com.br/fmverdevale
-#EXTINF:0 tvg-name="Educadora FM 101.9" group-title="Vale do Iguaçu", Educadora FM 101.9
+#EXTINF:0 tvg-id="educadora.fm" tvg-name="Educadora FM 101.9" group-title="Vale do Iguaçu", Educadora FM 101.9
 https://cast.youngtech.radio.br/8002/stream
-#EXTINF:0 tvg-name="Rádio Colmeia AM" group-title="Vale do Iguaçu", Rádio Colmeia AM
+#EXTINF:0 tvg-id="colmeia.am" tvg-name="Rádio Colmeia AM" group-title="Vale do Iguaçu", Rádio Colmeia AM
 https://ice.fabricahost.com.br/colmeiaam
-#EXTINF:0 tvg-name="Jovem Pan União da Vitória" group-title="Vale do Iguaçu", Jovem Pan União da Vitória
+#EXTINF:0 tvg-id="jp.uniao" tvg-name="Jovem Pan União da Vitória" group-title="Vale do Iguaçu", Jovem Pan União da Vitória
 https://servidor15.brlogic.com:7992/live
-#EXTINF:0 tvg-name="Porto União FM 87.9" group-title="Vale do Iguaçu", Porto União FM 87.9
+#EXTINF:0 tvg-id="porto.fm" tvg-name="Porto União FM 87.9" group-title="Vale do Iguaçu", Porto União FM 87.9
 https://ssl.xcast.com.br:12006/stream
 
 # --- PLANALTO NORTE E MEIO OESTE (SC) ---
-#EXTINF:0 tvg-name="98 FM Canoinhas" group-title="Planalto Norte SC", 98 FM Canoinhas
+#EXTINF:0 tvg-id="98fm.cni" tvg-name="98 FM Canoinhas" group-title="Planalto Norte SC", 98 FM Canoinhas
 https://ice.fabricahost.com.br/radio98fm
-#EXTINF:0 tvg-name="Massa FM Canoinhas" group-title="Planalto Norte SC", Massa FM Canoinhas
+#EXTINF:0 tvg-id="massa.cni" tvg-name="Massa FM Canoinhas" group-title="Planalto Norte SC", Massa FM Canoinhas
 https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
-#EXTINF:0 tvg-name="Rádio Clube de Canoinhas" group-title="Planalto Norte SC", Rádio Clube de Canoinhas
+#EXTINF:0 tvg-id="clube.cni" tvg-name="Rádio Clube Canoinhas" group-title="Planalto Norte SC", Rádio Clube de Canoinhas
 http://icecast.loopert.com/187
-#EXTINF:0 tvg-name="Rádio Irineópolis FM" group-title="Planalto Norte SC", Rádio Irineópolis FM
+#EXTINF:0 tvg-id="irineo.fm" tvg-name="Rádio Irineópolis FM" group-title="Planalto Norte SC", Rádio Irineópolis FM
 https://ice.fabricahost.com.br/irineopolisfm
-#EXTINF:0 tvg-name="Rádio Caçanjurê (Caçador)" group-title="Meio Oeste SC", Rádio Caçanjurê (Caçador)
+#EXTINF:0 tvg-id="cacan.radio" tvg-name="Rádio Caçanjurê" group-title="Meio Oeste SC", Rádio Caçanjurê (Caçador)
 https://ice.fabricahost.com.br/cacanjure
-#EXTINF:0 tvg-name="Massa FM Caçador" group-title="Meio Oeste SC", Massa FM Caçador
+#EXTINF:0 tvg-id="massa.caca" tvg-name="Massa FM Caçador" group-title="Meio Oeste SC", Massa FM Caçador
 https://shout.paineldecontrole.top/8100/stream
 
-# --- SUL PARANAENSE E CAMPOS DE PALMAS ---
-#EXTINF:0 tvg-name="Cultura Sul FM 97.5 (São Mateus)" group-title="Sul Paranaense", Cultura Sul FM 97.5 (São Mateus)
-https://servidor31.brlogic.com:8108/live
-#EXTINF:0 tvg-name="Rádio Difusora do Xisto" group-title="Sul Paranaense", Rádio Difusora do Xisto
-http://radio.saopaulo01.com.br:8302/stream
-#EXTINF:0 tvg-name="Rádio Novo Milênio" group-title="Sul Paranaense", Rádio Novo Milênio
-https://shout.suaradionanet.net/10102/stream
-#EXTINF:0 tvg-name="Bituruna FM 98.3" group-title="Sul Paranaense", Bituruna FM 98.3
-https://stream02.ouveai.com.br:7008/stream
-#EXTINF:0 tvg-name="Rádio Kairós (General Carneiro)" group-title="Sul Paranaense", Rádio Kairós (General Carneiro)
-https://ssl.xcast.com.br:10144/
-#EXTINF:0 tvg-name="Interativa FM (Cruz Machado)" group-title="Sul Paranaense", Interativa FM (Cruz Machado)
-https://stm42.srvstm.com:7358/
-#EXTINF:0 tvg-name="Club FM 99.5 (Palmas)" group-title="Sul Paranaense", Club FM 99.5 (Palmas)
-https://ice.fabricahost.com.br/clubfmpalmas
-#EXTINF:0 tvg-name="Horizonte FM (Palmas)" group-title="Sul Paranaense", Horizonte FM (Palmas)
-https://ice.fabricahost.com.br/horizontefm
-
-# --- CENTRO SUL E REDE T ---
-#EXTINF:0 tvg-name="Rádio T - Curitiba/Rede" group-title="Centro Sul PR", Rádio T - Curitiba/Rede
-https://s01.mediacp.com.br:8000/stream
-#EXTINF:0 tvg-name="Rádio T - Irati" group-title="Centro Sul PR", Rádio T - Irati
-https://s01.mediacp.com.br:8022/stream
-#EXTINF:0 tvg-name="Bela FM 97.3 (Rio Azul/Mallet)" group-title="Centro Sul PR", Bela FM 97.3 (Rio Azul/Mallet)
-https://ice.fabricahost.com.br/belafm
-#EXTINF:0 tvg-name="Rádio Najuá FM (Irati)" group-title="Centro Sul PR", Rádio Najuá FM (Irati)
-https://ice.fabricahost.com.br/najua106
-#EXTINF:0 tvg-name="Rádio Alvorada (Rebouças/Frontin)" group-title="Centro Sul PR", Rádio Alvorada (Rebouças/Frontin)
-https://ice.fabricahost.com.br/alvoradafm
-#EXTINF:0 tvg-name="Rádio Studio W (Mallet)" group-title="Centro Sul PR", Rádio Studio W (Mallet)
-https://servidor24.brlogic.com:8302/live
-#EXTINF:0 tvg-name="Rádio Reserva FM" group-title="Centro Sul PR", Rádio Reserva FM
-https://shout25.crossradio.com.br:18042/1
-
-# --- GRANDES REDES E SÃO PAULO ---
-#EXTINF:0 tvg-name="Antena 1 SP" group-title="Nacionais", Antena 1 SP
-https://antenaone.crossradio.com.br/stream/2
-#EXTINF:0 tvg-name="Alpha FM São Paulo" group-title="Nacionais", Alpha FM São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
-#EXTINF:0 tvg-name="Jovem Pan News" group-title="Nacionais", Jovem Pan News
-https://stream.zeno.fm/vlcraijc6yiuv
-#EXTINF:0 tvg-name="Rádio Bandeirantes AM" group-title="Nacionais", Rádio Bandeirantes AM
-https://21933.live.streamtheworld.com/RADIOBANDEIRANTES.mp3
-#EXTINF:0 tvg-name="Rádio Atlântida FM" group-title="Nacionais", Rádio Atlântida FM
-https://shout11.uol.com.br/atlantidafm_rs
-
 # --- NOTÍCIAS E ATUALIDADES ---
-#EXTINF:0 tvg-name="CNN Brasil" group-title="Notícias", CNN Brasil
+#EXTINF:0 tvg-id="cnn.br" tvg-name="CNN Brasil" group-title="Notícias", CNN Brasil
 https://cnnb-live.akamaized.net/hls/live/2034515/cnnb-full/playlist.m3u8
-#EXTINF:0 tvg-name="Record News" group-title="Notícias", Record News
+#EXTINF:0 tvg-id="record.news" tvg-name="Record News" group-title="Notícias", Record News
 https://recordnews.com.br/hls-live/live.m3u8
-#EXTINF:0 tvg-name="Canal UOL" group-title="Notícias", Canal UOL
+#EXTINF:0 tvg-id="canal.uol" tvg-name="Canal UOL" group-title="Notícias", Canal UOL
 https://uol-atlb-p0-v.akamaized.net/hls/live/2043681/uol/playlist.m3u8
-#EXTINF:0 tvg-name="Rede Brasil" group-title="Notícias", Rede Brasil
+#EXTINF:0 tvg-id="rede.brasil" tvg-name="Rede Brasil" group-title="Notícias", Rede Brasil
 http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
-#EXTINF:0 tvg-name="TV Meio" group-title="Notícias", TV Meio
+#EXTINF:0 tvg-id="tv.meio" tvg-name="TV Meio" group-title="Notícias", TV Meio
 https://6115998f41656.streamlock.net/portalmeio/portalmeio/playlist.m3u8
-#EXTINF:0 tvg-name="CBN Curitiba" group-title="Notícias", CBN Curitiba
-https://servidor31.brlogic.com:8012/live
-#EXTINF:0 tvg-name="BandNews FM Curitiba" group-title="Notícias", BandNews FM Curitiba
-https://servidor23.brlogic.com:8300/live
 
-# --- FILMES, SÉRIES E ENTRETENIMENTO ---
-#EXTINF:0 tvg-name="ISTV (Retro)" group-title="Filmes e Séries", ISTV (Retro)
+# --- FILMES E SÉRIES ---
+#EXTINF:0 tvg-id="istv.retro" tvg-name="ISTV (Retro)" group-title="Filmes e Séries", ISTV (Retro)
 https://5931c890d3663.streamlock.net/istv/istv/playlist.m3u8
-#EXTINF:0 tvg-name="TV Sonata" group-title="Filmes e Séries", TV Sonata
+#EXTINF:0 tvg-id="tv.sonata" tvg-name="TV Sonata" group-title="Filmes e Séries", TV Sonata
 https://stmv1.srvif.com/tvsonata/tvsonata/playlist.m3u8
-#EXTINF:0 tvg-name="Series Classics" group-title="Filmes e Séries", Series Classics
+#EXTINF:0 tvg-id="series.classics" tvg-name="Series Classics" group-title="Filmes e Séries", Series Classics
 https://stmv1.srvif.com/seriesclassics/seriesclassics/playlist.m3u8
 
-# --- CANAIS REGIONAIS ---
-#EXTINF:0 tvg-name="RedeTV! Paraná" group-title="Regionais", RedeTV! Paraná
-https://6115998f41656.streamlock.net/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:0 tvg-name="TV Pampa (RS)" group-title="Regionais", TV Pampa (RS)
-https://pampa-live.akamaized.net/hls/live/2035314/pampa/playlist.m3u8
-#EXTINF:0 tvg-name="TV Max (RJ)" group-title="Regionais", TV Max (RJ)
-https://stmv1.srvif.com/tvmax/tvmax/playlist.m3u8
-#EXTINF:0 tvg-name="Rede Metrópole" group-title="Regionais", Rede Metrópole
-https://stmv1.srvif.com/redemetropole/redemetropole/playlist.m3u8
-
-# --- ESPORTES ---
-#EXTINF:0 tvg-name="Inter TV (Canal do Inter)" group-title="Esportes", Inter TV (Canal do Inter)
-https://stmv1.srvif.com/intertv/intertv/playlist.m3u8
-#EXTINF:0 tvg-name="All Sports" group-title="Esportes", All Sports
-https://stmv1.srvif.com/allsports/allsports/playlist.m3u8
-#EXTINF:0 tvg-name="Lito Cavalcante (F1)" group-title="Esportes", Lito Cavalcante (F1)
-https://stmv1.srvif.com/litocavalcante/litocavalcante/playlist.m3u8
-
-# --- VARIEDADES E ESTILO DE VIDA ---
-#EXTINF:0 tvg-name="SescTV" group-title="Variedades", SescTV
+# --- VARIEDADES E CULTURA ---
+#EXTINF:0 tvg-id="sesctv.br" tvg-name="SescTV" group-title="Variedades", SescTV
 https://streaming.sesctv.org.br/hls/sesctv.m3u8
-#EXTINF:0 tvg-name="AgroBrasil TV" group-title="Variedades", AgroBrasil TV
+#EXTINF:0 tvg-id="agrobrasil.tv" tvg-name="AgroBrasil TV" group-title="Variedades", AgroBrasil TV
 http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8
-#EXTINF:0 tvg-name="UMiss (Moda)" group-title="Variedades", UMiss (Moda)
+#EXTINF:0 tvg-id="umiss.moda" tvg-name="UMiss (Moda)" group-title="Variedades", UMiss (Moda)
 https://stmv1.srvif.com/umiss/umiss/playlist.m3u8
-
-# --- INTERNACIONAIS ---
-#EXTINF:0 tvg-name="Assim é Portugal" group-title="Internacionais", Assim é Portugal
-https://stmv1.srvif.com/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:0 tvg-name="Peru Channel" group-title="Internacionais", Peru Channel
-https://stmv1.srvif.com/peruchannel/peruchannel/playlist.m3u8
-
-# --- SÓ MÚSICAS / HUNTER FM ---
-#EXTINF:0 tvg-name="Rádio Só FlashBack" group-title="Só Musicas", Rádio Só FlashBack
-https://servidor40-5.brlogic.com:8122/live
-#EXTINF:0 tvg-name="Hunter Sertanejo" group-title="Só Musicas", Hunter Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:0 tvg-name="Hunter Rock" group-title="Só Musicas", Hunter Rock
-https://live.hunter.fm/rock_normal
-#EXTINF:0 tvg-name="Hunter 80s" group-title="Só Musicas", Hunter 80s
-https://live.hunter.fm/80s_normal
-#EXTINF:0 tvg-name="Hunter Lofi" group-title="Só Musicas", Hunter Lofi
-https://live.hunter.fm/lofi_normal
-#EXTINF:0 tvg-name="Rádio Nova Instrumental" group-title="Só Musicas", Rádio Nova Instrumental
-https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
