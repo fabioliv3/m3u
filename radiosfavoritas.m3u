@@ -74,25 +74,61 @@ https://21933.live.streamtheworld.com/RADIOBANDEIRANTES.mp3
 #EXTINF:0 tvg-name="Rádio Atlântida FM" group-title="Nacionais", Rádio Atlântida FM
 https://shout11.uol.com.br/atlantidafm_rs
 
-# --- ALL NEWS PARANÁ ---
-#EXTINF:0 tvg-name="CBN Curitiba" group-title="All News", CBN Curitiba
+# --- NOTÍCIAS E ATUALIDADES ---
+#EXTINF:0 tvg-name="CNN Brasil" group-title="Notícias", CNN Brasil
+https://cnnb-live.akamaized.net/hls/live/2034515/cnnb-full/playlist.m3u8
+#EXTINF:0 tvg-name="Record News" group-title="Notícias", Record News
+https://recordnews.com.br/hls-live/live.m3u8
+#EXTINF:0 tvg-name="Canal UOL" group-title="Notícias", Canal UOL
+https://uol-atlb-p0-v.akamaized.net/hls/live/2043681/uol/playlist.m3u8
+#EXTINF:0 tvg-name="Rede Brasil" group-title="Notícias", Rede Brasil
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+#EXTINF:0 tvg-name="TV Meio" group-title="Notícias", TV Meio
+https://6115998f41656.streamlock.net/portalmeio/portalmeio/playlist.m3u8
+#EXTINF:0 tvg-name="CBN Curitiba" group-title="Notícias", CBN Curitiba
 https://servidor31.brlogic.com:8012/live
-#EXTINF:0 tvg-name="BandNews FM Curitiba" group-title="All News", BandNews FM Curitiba
+#EXTINF:0 tvg-name="BandNews FM Curitiba" group-title="Notícias", BandNews FM Curitiba
 https://servidor23.brlogic.com:8300/live
-#EXTINF:0 tvg-name="Jovem Pan News Curitiba" group-title="All News", Jovem Pan News Curitiba
-https://servidor15.brlogic.com:8022/live
-#EXTINF:0 tvg-name="CBN Londrina" group-title="All News", CBN Londrina
-https://servidor22.brlogic.com:8014/live
 
-# --- ALL NEWS SANTA CATARINA ---
-#EXTINF:0 tvg-name="CBN Floripa (Florianópolis)" group-title="All News", CBN Floripa (Florianópolis)
-https://shout11.uol.com.br/cbn_sc_fla
-#EXTINF:0 tvg-name="CBN Joinville" group-title="All News", CBN Joinville
-https://shout11.uol.com.br/cbn_sc_joi
-#EXTINF:0 tvg-name="Jovem Pan News Florianópolis" group-title="All News", Jovem Pan News Florianópolis
-https://servidor31.brlogic.com:8112/live
-#EXTINF:0 tvg-name="Rádio Som Maior (Criciúma)" group-title="All News", Rádio Som Maior (Criciúma)
-https://ice.fabricahost.com.br/sommaiorfm
+# --- FILMES, SÉRIES E ENTRETENIMENTO ---
+#EXTINF:0 tvg-name="ISTV (Retro)" group-title="Filmes e Séries", ISTV (Retro)
+https://5931c890d3663.streamlock.net/istv/istv/playlist.m3u8
+#EXTINF:0 tvg-name="TV Sonata" group-title="Filmes e Séries", TV Sonata
+https://stmv1.srvif.com/tvsonata/tvsonata/playlist.m3u8
+#EXTINF:0 tvg-name="Series Classics" group-title="Filmes e Séries", Series Classics
+https://stmv1.srvif.com/seriesclassics/seriesclassics/playlist.m3u8
+
+# --- CANAIS REGIONAIS ---
+#EXTINF:0 tvg-name="RedeTV! Paraná" group-title="Regionais", RedeTV! Paraná
+https://6115998f41656.streamlock.net/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:0 tvg-name="TV Pampa (RS)" group-title="Regionais", TV Pampa (RS)
+https://pampa-live.akamaized.net/hls/live/2035314/pampa/playlist.m3u8
+#EXTINF:0 tvg-name="TV Max (RJ)" group-title="Regionais", TV Max (RJ)
+https://stmv1.srvif.com/tvmax/tvmax/playlist.m3u8
+#EXTINF:0 tvg-name="Rede Metrópole" group-title="Regionais", Rede Metrópole
+https://stmv1.srvif.com/redemetropole/redemetropole/playlist.m3u8
+
+# --- ESPORTES ---
+#EXTINF:0 tvg-name="Inter TV (Canal do Inter)" group-title="Esportes", Inter TV (Canal do Inter)
+https://stmv1.srvif.com/intertv/intertv/playlist.m3u8
+#EXTINF:0 tvg-name="All Sports" group-title="Esportes", All Sports
+https://stmv1.srvif.com/allsports/allsports/playlist.m3u8
+#EXTINF:0 tvg-name="Lito Cavalcante (F1)" group-title="Esportes", Lito Cavalcante (F1)
+https://stmv1.srvif.com/litocavalcante/litocavalcante/playlist.m3u8
+
+# --- VARIEDADES E ESTILO DE VIDA ---
+#EXTINF:0 tvg-name="SescTV" group-title="Variedades", SescTV
+https://streaming.sesctv.org.br/hls/sesctv.m3u8
+#EXTINF:0 tvg-name="AgroBrasil TV" group-title="Variedades", AgroBrasil TV
+http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8
+#EXTINF:0 tvg-name="UMiss (Moda)" group-title="Variedades", UMiss (Moda)
+https://stmv1.srvif.com/umiss/umiss/playlist.m3u8
+
+# --- INTERNACIONAIS ---
+#EXTINF:0 tvg-name="Assim é Portugal" group-title="Internacionais", Assim é Portugal
+https://stmv1.srvif.com/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:0 tvg-name="Peru Channel" group-title="Internacionais", Peru Channel
+https://stmv1.srvif.com/peruchannel/peruchannel/playlist.m3u8
 
 # --- SÓ MÚSICAS / HUNTER FM ---
 #EXTINF:0 tvg-name="Rádio Só FlashBack" group-title="Só Musicas", Rádio Só FlashBack
