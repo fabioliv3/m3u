@@ -1,108 +1,109 @@
 #EXTM3U
 
 # --- VALE DO IGUAÇU (PORTO UNIÃO / UNIÃO DA VITÓRIA) ---
-#EXTINF:-1 group-title="Vale do Iguaçu",Massa FM Vale do Iguaçu 106.5
+#EXTINF:0 tvg-name="Massa FM Vale do Iguaçu 106.5" group-title="Vale do Iguaçu", Massa FM Vale do Iguaçu 106.5
 https://ice.fabricahost.com.br/massafmvale
-#EXTINF:-1 group-title="Vale do Iguaçu",Verde Vale FM 94.1
+#EXTINF:0 tvg-name="Verde Vale FM 94.1" group-title="Vale do Iguaçu", Verde Vale FM 94.1
 https://ice.fabricahost.com.br/fmverdevale
-#EXTINF:-1 group-title="Vale do Iguaçu",Educadora FM 101.9
+#EXTINF:0 tvg-name="Educadora FM 101.9" group-title="Vale do Iguaçu", Educadora FM 101.9
 https://cast.youngtech.radio.br/8002/stream
-#EXTINF:-1 group-title="Vale do Iguaçu",Rádio Colmeia AM
+#EXTINF:0 tvg-name="Rádio Colmeia AM" group-title="Vale do Iguaçu", Rádio Colmeia AM
 https://ice.fabricahost.com.br/colmeiaam
-#EXTINF:-1 group-title="Vale do Iguaçu",Jovem Pan União da Vitória
+#EXTINF:0 tvg-name="Jovem Pan União da Vitória" group-title="Vale do Iguaçu", Jovem Pan União da Vitória
 https://servidor15.brlogic.com:7992/live
-#EXTINF:-1 group-title="Vale do Iguaçu",Porto União FM 87.9
+#EXTINF:0 tvg-name="Porto União FM 87.9" group-title="Vale do Iguaçu", Porto União FM 87.9
 https://ssl.xcast.com.br:12006/stream
 
 # --- PLANALTO NORTE E MEIO OESTE (SC) ---
-#EXTINF:-1 group-title="Planalto Norte SC",98 FM Canoinhas
+#EXTINF:0 tvg-name="98 FM Canoinhas" group-title="Planalto Norte SC", 98 FM Canoinhas
 https://ice.fabricahost.com.br/radio98fm
-#EXTINF:-1 group-title="Planalto Norte SC",Massa FM Canoinhas
+#EXTINF:0 tvg-name="Massa FM Canoinhas" group-title="Planalto Norte SC", Massa FM Canoinhas
 https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
-#EXTINF:-1 group-title="Planalto Norte SC",Rádio Clube de Canoinhas
+#EXTINF:0 tvg-name="Rádio Clube de Canoinhas" group-title="Planalto Norte SC", Rádio Clube de Canoinhas
 http://icecast.loopert.com/187
-#EXTINF:-1 group-title="Planalto Norte SC",Rádio Irineópolis FM
+#EXTINF:0 tvg-name="Rádio Irineópolis FM" group-title="Planalto Norte SC", Rádio Irineópolis FM
 https://ice.fabricahost.com.br/irineopolisfm
-#EXTINF:-1 group-title="Meio Oeste SC",Rádio Caçanjurê (Caçador)
+#EXTINF:0 tvg-name="Rádio Caçanjurê (Caçador)" group-title="Meio Oeste SC", Rádio Caçanjurê (Caçador)
 https://ice.fabricahost.com.br/cacanjure
-#EXTINF:-1 group-title="Meio Oeste SC",Massa FM Caçador
+#EXTINF:0 tvg-name="Massa FM Caçador" group-title="Meio Oeste SC", Massa FM Caçador
 https://shout.paineldecontrole.top/8100/stream
 
 # --- SUL PARANAENSE E CAMPOS DE PALMAS ---
-#EXTINF:-1 group-title="Sul Paranaense",Cultura Sul FM 105.1 (São Mateus)
-https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sul Paranaense",Rádio Difusora do Xisto
+#EXTINF:0 tvg-name="Cultura Sul FM 97.5 (São Mateus)" group-title="Sul Paranaense", Cultura Sul FM 97.5 (São Mateus)
+https://servidor31.brlogic.com:8108/live
+#EXTINF:0 tvg-name="Rádio Difusora do Xisto" group-title="Sul Paranaense", Rádio Difusora do Xisto
 http://radio.saopaulo01.com.br:8302/stream
-#EXTINF:-1 group-title="Sul Paranaense",Rádio Novo Milênio
+#EXTINF:0 tvg-name="Rádio Novo Milênio" group-title="Sul Paranaense", Rádio Novo Milênio
 https://shout.suaradionanet.net/10102/stream
-#EXTINF:-1 group-title="Sul Paranaense",Bituruna FM 98.3
+#EXTINF:0 tvg-name="Bituruna FM 98.3" group-title="Sul Paranaense", Bituruna FM 98.3
 https://stream02.ouveai.com.br:7008/stream
-#EXTINF:-1 group-title="Sul Paranaense",Rádio Kairós (General Carneiro)
+#EXTINF:0 tvg-name="Rádio Kairós (General Carneiro)" group-title="Sul Paranaense", Rádio Kairós (General Carneiro)
 https://ssl.xcast.com.br:10144/
-#EXTINF:-1 group-title="Sul Paranaense",Interativa FM (Cruz Machado)
+#EXTINF:0 tvg-name="Interativa FM (Cruz Machado)" group-title="Sul Paranaense", Interativa FM (Cruz Machado)
 https://stm42.srvstm.com:7358/
-#EXTINF:-1 group-title="Sul Paranaense",Club FM 99.5 (Palmas)
+#EXTINF:0 tvg-name="Club FM 99.5 (Palmas)" group-title="Sul Paranaense", Club FM 99.5 (Palmas)
 https://ice.fabricahost.com.br/clubfmpalmas
-#EXTINF:-1 group-title="Sul Paranaense",Horizonte FM (Palmas)
+#EXTINF:0 tvg-name="Horizonte FM (Palmas)" group-title="Sul Paranaense", Horizonte FM (Palmas)
 https://ice.fabricahost.com.br/horizontefm
 
 # --- CENTRO SUL E REDE T ---
-#EXTINF:-1 group-title="Centro Sul PR",Rádio T - Curitiba/Rede
+#EXTINF:0 tvg-name="Rádio T - Curitiba/Rede" group-title="Centro Sul PR", Rádio T - Curitiba/Rede
 https://s01.mediacp.com.br:8000/stream
-#EXTINF:-1 group-title="Centro Sul PR",Rádio T - Irati
+#EXTINF:0 tvg-name="Rádio T - Irati" group-title="Centro Sul PR", Rádio T - Irati
 https://s01.mediacp.com.br:8022/stream
-#EXTINF:-1 group-title="Centro Sul PR",Bela FM 97.3 (Rio Azul/Mallet)
+#EXTINF:0 tvg-name="Bela FM 97.3 (Rio Azul/Mallet)" group-title="Centro Sul PR", Bela FM 97.3 (Rio Azul/Mallet)
 https://ice.fabricahost.com.br/belafm
-#EXTINF:-1 group-title="Centro Sul PR",Rádio Najuá FM (Irati)
+#EXTINF:0 tvg-name="Rádio Najuá FM (Irati)" group-title="Centro Sul PR", Rádio Najuá FM (Irati)
 https://ice.fabricahost.com.br/najua106
-#EXTINF:-1 group-title="Centro Sul PR",Rádio Alvorada (Rebouças/Frontin)
+#EXTINF:0 tvg-name="Rádio Alvorada (Rebouças/Frontin)" group-title="Centro Sul PR", Rádio Alvorada (Rebouças/Frontin)
 https://ice.fabricahost.com.br/alvoradafm
-#EXTINF:-1 group-title="Centro Sul PR",Rádio Studio W (Mallet)
+#EXTINF:0 tvg-name="Rádio Studio W (Mallet)" group-title="Centro Sul PR", Rádio Studio W (Mallet)
 https://servidor24.brlogic.com:8302/live
-#EXTINF:-1 group-title="Centro Sul PR",Rádio Reserva FM
+#EXTINF:0 tvg-name="Rádio Reserva FM" group-title="Centro Sul PR", Rádio Reserva FM
 https://shout25.crossradio.com.br:18042/1
 
 # --- GRANDES REDES E SÃO PAULO ---
-#EXTINF:-1 group-title="Nacionais",Antena 1 SP
+#EXTINF:0 tvg-name="Antena 1 SP" group-title="Nacionais", Antena 1 SP
 https://antenaone.crossradio.com.br/stream/2
-#EXTINF:-1 group-title="Nacionais",Alpha FM São Paulo
+#EXTINF:0 tvg-name="Alpha FM São Paulo" group-title="Nacionais", Alpha FM São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
-#EXTINF:-1 group-title="Nacionais",Jovem Pan News
+#EXTINF:0 tvg-name="Jovem Pan News" group-title="Nacionais", Jovem Pan News
 https://stream.zeno.fm/vlcraijc6yiuv
-#EXTINF:-1 group-title="Nacionais",Rádio Bandeirantes AM
+#EXTINF:0 tvg-name="Rádio Bandeirantes AM" group-title="Nacionais", Rádio Bandeirantes AM
 https://21933.live.streamtheworld.com/RADIOBANDEIRANTES.mp3
-#EXTINF:-1 group-title="Nacionais",Rádio Atlântida FM
+#EXTINF:0 tvg-name="Rádio Atlântida FM" group-title="Nacionais", Rádio Atlântida FM
 https://shout11.uol.com.br/atlantidafm_rs
+
 # --- ALL NEWS PARANÁ ---
-#EXTINF:-1 group-title="All News",CBN Curitiba
+#EXTINF:0 tvg-name="CBN Curitiba" group-title="All News", CBN Curitiba
 https://servidor31.brlogic.com:8012/live
-#EXTINF:-1 group-title="All News",BandNews FM Curitiba
+#EXTINF:0 tvg-name="BandNews FM Curitiba" group-title="All News", BandNews FM Curitiba
 https://servidor23.brlogic.com:8300/live
-#EXTINF:-1 group-title="All News",Jovem Pan News Curitiba
+#EXTINF:0 tvg-name="Jovem Pan News Curitiba" group-title="All News", Jovem Pan News Curitiba
 https://servidor15.brlogic.com:8022/live
-#EXTINF:-1 group-title="All News",CBN Londrina
+#EXTINF:0 tvg-name="CBN Londrina" group-title="All News", CBN Londrina
 https://servidor22.brlogic.com:8014/live
 
 # --- ALL NEWS SANTA CATARINA ---
-#EXTINF:-1 group-title="All News",CBN Floripa (Florianópolis)
+#EXTINF:0 tvg-name="CBN Floripa (Florianópolis)" group-title="All News", CBN Floripa (Florianópolis)
 https://shout11.uol.com.br/cbn_sc_fla
-#EXTINF:-1 group-title="All News",CBN Joinville
+#EXTINF:0 tvg-name="CBN Joinville" group-title="All News", CBN Joinville
 https://shout11.uol.com.br/cbn_sc_joi
-#EXTINF:-1 group-title="All News",Jovem Pan News Florianópolis
+#EXTINF:0 tvg-name="Jovem Pan News Florianópolis" group-title="All News", Jovem Pan News Florianópolis
 https://servidor31.brlogic.com:8112/live
-#EXTINF:-1 group-title="All News",Rádio Som Maior (Criciúma - Referência em News)
+#EXTINF:0 tvg-name="Rádio Som Maior (Criciúma)" group-title="All News", Rádio Som Maior (Criciúma)
 https://ice.fabricahost.com.br/sommaiorfm
 
 # --- SÓ MÚSICAS / HUNTER FM ---
-#EXTINF:-1 group-title="Só Musicas",Rádio Só FlashBack
+#EXTINF:0 tvg-name="Rádio Só FlashBack" group-title="Só Musicas", Rádio Só FlashBack
 https://servidor40-5.brlogic.com:8122/live
-#EXTINF:-1 group-title="Só Musicas",Hunter Sertanejo
+#EXTINF:0 tvg-name="Hunter Sertanejo" group-title="Só Musicas", Hunter Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Rock
+#EXTINF:0 tvg-name="Hunter Rock" group-title="Só Musicas", Hunter Rock
 https://live.hunter.fm/rock_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter 80s
+#EXTINF:0 tvg-name="Hunter 80s" group-title="Só Musicas", Hunter 80s
 https://live.hunter.fm/80s_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Lofi
+#EXTINF:0 tvg-name="Hunter Lofi" group-title="Só Musicas", Hunter Lofi
 https://live.hunter.fm/lofi_normal
-#EXTINF:-1 group-title="Só Musicas",Rádio Nova Instrumental
+#EXTINF:0 tvg-name="Rádio Nova Instrumental" group-title="Só Musicas", Rádio Nova Instrumental
 https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
