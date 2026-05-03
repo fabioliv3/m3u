@@ -1,131 +1,108 @@
 #EXTM3U
-#EXTINF:-1,Rádio Massa FM - São Paulo
-https://stm01.virtualcast.com.br:8000/massasaopaulo
-#EXTINF:-1,Rádio Massa FM - Curitiba
-https://stm01.virtualcast.com.br:8118/massacuritiba
-#EXTINF:-1,Rádio Massa FM - União da Vitória
+
+# --- VALE DO IGUAÇU (PORTO UNIÃO / UNIÃO DA VITÓRIA) ---
+#EXTINF:-1 group-title="Vale do Iguaçu",Massa FM Vale do Iguaçu 106.5
 https://ice.fabricahost.com.br/massafmvale
-#EXTINF:-1,Verde Vale FM - União da Vitória
+#EXTINF:-1 group-title="Vale do Iguaçu",Verde Vale FM 94.1
 https://ice.fabricahost.com.br/fmverdevale
-#EXTINF:-1,Educadora FM - União da Vitória
-https://cast.youngtech.radio.br/listen/uniguacufm1019/radio
-#EXTINF:-1,Colmeia - Porto União
+#EXTINF:-1 group-title="Vale do Iguaçu",Educadora FM 101.9
+https://cast.youngtech.radio.br/8002/stream
+#EXTINF:-1 group-title="Vale do Iguaçu",Rádio Colmeia AM
 https://ice.fabricahost.com.br/colmeiaam
-#EXTINF:-1,Jovem Pan - União da Vitória
+#EXTINF:-1 group-title="Vale do Iguaçu",Jovem Pan União da Vitória
 https://servidor15.brlogic.com:7992/live
-#EXTINF:-1,Novo Milênio - São Mateus do Sul
-http://radio2.suaradionanet.net:10102/stream
-#EXTINF:-1,Clube - Canoinhas
-http://icecast.loopert.com/187
-#EXTINF:-1,98 FM - Canoinhas
-https://ice.fabricahost.com.br/radio98fm
-#EXTINF:-1,Massa FM - Canoinhas
-https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
-#EXTINF:-1,T FM
-https://s1.mediacp.com.br:8992/stream
-#EXTINF:-1,Cultura Sul - São Mateus do Sul
-https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/chunklist_w125219420.m3u8
-#EXTINF:-1,Difusora do Xisto - São Mateus do Sul
-http://radio.saopaulo01.com.br:8302/;
-#EXTINF:-1,Kairos - General Carneiro
-https://ssl.xcast.com.br:10144/
-#EXTINF:-1,Antena 1 - São Paulo
-https://antenaone.crossradio.com.br/stream/2
-#EXTINF:-1,Saudade FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Alpha FM - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
-#EXTINF:-1,Rádio Metropolitana 98.5 FM
-https://ice.fabricahost.com.br/metropolitana985sp
-#EXTINF:-1,FM O Dia - Rio de Janeiro
-https://streaming.livespanel.com:20000/live
-#EXTINF:-1,Nativa FM - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=onlineradiobox
-#EXTINF:-1,Super Rádio Tupi
-https://8923.brasilstream.com.br/stream
-#EXTINF:-1,Rádio Só FlashBack
-https://servidor40-5.brlogic.com:8122/live
-#EXTINF:-1,Nova Brasil FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Rádio Caiobá
-https://servidor35.brlogic.com:7094/live
-#EXTINF:-1,Radio Banda B
-https://ice.fabricahost.com.br/bandabctb
-#EXTINF:-1,Radio Ouro Verde
-https://servidor18.brlogic.com:7484/live
-#EXTINF:-1,Radio Mercosul
-http://ice.fabricahost.com.br/redemercosulctba
-#EXTINF:-1,Radio Espírita do Paraná
-https://ssl.xcast.com.br:7674/
-#EXTINF:-1,Vibe Mundial
-https://servidor13.brlogic.com:7262/live
-#EXTINF:-1,Bituruna FM - Bituruna
-https://stream02.ouveai.com.br:7008/stream
-#EXTINF:-1,Porto União FM 87.9
+#EXTINF:-1 group-title="Vale do Iguaçu",Porto União FM 87.9
 https://ssl.xcast.com.br:12006/stream
-#EXTINF:-1,Interativa - Cruz Machado
+
+# --- PLANALTO NORTE E MEIO OESTE (SC) ---
+#EXTINF:-1 group-title="Planalto Norte SC",98 FM Canoinhas
+https://ice.fabricahost.com.br/radio98fm
+#EXTINF:-1 group-title="Planalto Norte SC",Massa FM Canoinhas
+https://live.paineldj.com.br/proxy/massafmcni?mp=/stream
+#EXTINF:-1 group-title="Planalto Norte SC",Rádio Clube de Canoinhas
+http://icecast.loopert.com/187
+#EXTINF:-1 group-title="Planalto Norte SC",Rádio Irineópolis FM
+https://ice.fabricahost.com.br/irineopolisfm
+#EXTINF:-1 group-title="Meio Oeste SC",Rádio Caçanjurê (Caçador)
+https://ice.fabricahost.com.br/cacanjure
+#EXTINF:-1 group-title="Meio Oeste SC",Massa FM Caçador
+https://shout.paineldecontrole.top/8100/stream
+
+# --- SUL PARANAENSE E CAMPOS DE PALMAS ---
+#EXTINF:-1 group-title="Sul Paranaense",Cultura Sul FM 105.1 (São Mateus)
+https://5a57bda70564a.streamlock.net/culturasulfm64k/culturasulfm64k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sul Paranaense",Rádio Difusora do Xisto
+http://radio.saopaulo01.com.br:8302/stream
+#EXTINF:-1 group-title="Sul Paranaense",Rádio Novo Milênio
+https://shout.suaradionanet.net/10102/stream
+#EXTINF:-1 group-title="Sul Paranaense",Bituruna FM 98.3
+https://stream02.ouveai.com.br:7008/stream
+#EXTINF:-1 group-title="Sul Paranaense",Rádio Kairós (General Carneiro)
+https://ssl.xcast.com.br:10144/
+#EXTINF:-1 group-title="Sul Paranaense",Interativa FM (Cruz Machado)
 https://stm42.srvstm.com:7358/
-#EXTINF:-1,Jovem Pan News
+#EXTINF:-1 group-title="Sul Paranaense",Club FM 99.5 (Palmas)
+https://ice.fabricahost.com.br/clubfmpalmas
+#EXTINF:-1 group-title="Sul Paranaense",Horizonte FM (Palmas)
+https://ice.fabricahost.com.br/horizontefm
+
+# --- CENTRO SUL E REDE T ---
+#EXTINF:-1 group-title="Centro Sul PR",Rádio T - Curitiba/Rede
+https://s01.mediacp.com.br:8000/stream
+#EXTINF:-1 group-title="Centro Sul PR",Rádio T - Irati
+https://s01.mediacp.com.br:8022/stream
+#EXTINF:-1 group-title="Centro Sul PR",Bela FM 97.3 (Rio Azul/Mallet)
+https://ice.fabricahost.com.br/belafm
+#EXTINF:-1 group-title="Centro Sul PR",Rádio Najuá FM (Irati)
+https://ice.fabricahost.com.br/najua106
+#EXTINF:-1 group-title="Centro Sul PR",Rádio Alvorada (Rebouças/Frontin)
+https://ice.fabricahost.com.br/alvoradafm
+#EXTINF:-1 group-title="Centro Sul PR",Rádio Studio W (Mallet)
+https://servidor24.brlogic.com:8302/live
+#EXTINF:-1 group-title="Centro Sul PR",Rádio Reserva FM
+https://shout25.crossradio.com.br:18042/1
+
+# --- GRANDES REDES E SÃO PAULO ---
+#EXTINF:-1 group-title="Nacionais",Antena 1 SP
+https://antenaone.crossradio.com.br/stream/2
+#EXTINF:-1 group-title="Nacionais",Alpha FM São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Nacionais",Jovem Pan News
 https://stream.zeno.fm/vlcraijc6yiuv
-#EXTINF:-1,Rádio Band FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8?dist=onlineradiobox
-#EXTINF:-1,Rádio Villa Mix
-https://r16.ciclano.io:15032/stream
-#EXTINF:-1,Mix FM - São Paulo
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Jovem Pan
-https://stream.zeno.fm/c45wbq2us3buv
-#EXTINF:-1,89 FM A Rádio Rock
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=onlineradiobox
-#EXTINF:-1,Radio Motel
-https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3
-#EXTINF:-1,Rádio Roberto Carlos
-https://servidor15-2.brlogic.com:8058/live
-#EXTINF:-1,Rádio Bandeirantes AM
-https://21933.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/5f277d68-5679-4ba3-b295-7723409e5b27/0/playlist.m3u8
-#EXTINF:-1,Radio Atlântida FM
-https://liverdatlbeiramar.rbsdirect.com.br/primary/atl_tra.sdp/playlist.m3u8
-#EXTINF:-1,SulAmérica Paradiso
-https://playerservices.streamtheworld.com/api/livestream-redirect/PARADISO.mp3?dist=onlineradiobox
-#EXTINF:-1,Rádio Mania - Rio de Janeiro
-https://playerservices.streamtheworld.com/api/livestream-redirect/MANIAFM_REDEAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Rádio Nova Instrumental
-https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
-#EXTINF:-1,Radio Capital 77.5 FM
-https://ice.fabricahost.com.br/capitalfmsp
-#EXTINF:-1,Rádio Flashback Total
-https://player.painelshoutcast.com.br/proxy/6008
-#EXTINF:-1,Rádio Pagode - São Paulo
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:-1,Rádio Hunter - Sertanejo
+#EXTINF:-1 group-title="Nacionais",Rádio Bandeirantes AM
+https://21933.live.streamtheworld.com/RADIOBANDEIRANTES.mp3
+#EXTINF:-1 group-title="Nacionais",Rádio Atlântida FM
+https://shout11.uol.com.br/atlantidafm_rs
+# --- ALL NEWS PARANÁ ---
+#EXTINF:-1 group-title="All News",CBN Curitiba
+https://servidor31.brlogic.com:8012/live
+#EXTINF:-1 group-title="All News",BandNews FM Curitiba
+https://servidor23.brlogic.com:8300/live
+#EXTINF:-1 group-title="All News",Jovem Pan News Curitiba
+https://servidor15.brlogic.com:8022/live
+#EXTINF:-1 group-title="All News",CBN Londrina
+https://servidor22.brlogic.com:8014/live
+
+# --- ALL NEWS SANTA CATARINA ---
+#EXTINF:-1 group-title="All News",CBN Floripa (Florianópolis)
+https://shout11.uol.com.br/cbn_sc_fla
+#EXTINF:-1 group-title="All News",CBN Joinville
+https://shout11.uol.com.br/cbn_sc_joi
+#EXTINF:-1 group-title="All News",Jovem Pan News Florianópolis
+https://servidor31.brlogic.com:8112/live
+#EXTINF:-1 group-title="All News",Rádio Som Maior (Criciúma - Referência em News)
+https://ice.fabricahost.com.br/sommaiorfm
+
+# --- SÓ MÚSICAS / HUNTER FM ---
+#EXTINF:-1 group-title="Só Musicas",Rádio Só FlashBack
+https://servidor40-5.brlogic.com:8122/live
+#EXTINF:-1 group-title="Só Musicas",Hunter Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:-1 group-title="Só Musicas",Pop 
-https://live.hunter.fm/pop_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Master
-https://live.hunter.fm/master_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Mpb
-https://live.hunter.fm/mpb_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Pagode
-https://live.hunter.fm/pagode_normal
 #EXTINF:-1 group-title="Só Musicas",Hunter Rock
 https://live.hunter.fm/rock_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Hits Brasil
-https://live.hunter.fm/hitsbrasil_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Moda Sertaneja
-https://live.hunter.fm/modasertaneja_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Gospel
-https://live.hunter.fm/gospel_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter 80
+#EXTINF:-1 group-title="Só Musicas",Hunter 80s
 https://live.hunter.fm/80s_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Pisadinha
-https://live.hunter.fm/pisadinha_normal
 #EXTINF:-1 group-title="Só Musicas",Hunter Lofi
 https://live.hunter.fm/lofi_normal
-#EXTINF:-1 group-title="Só Musicas",Hunter Tropical
-https://live.hunter.fm/tropical_normal
-#EXTINF:-1 group-title="Só Musicas",Metropolitana Sertanejo
-https://ice.fabricahost.com.br/metrospsertanejo
-#EXTINF:-1 group-title="Só Musicas",Metropolitana Light
-https://ice.fabricahost.com.br/metropolitanasplight
-#EXTINF:-1 group-title="Só Musicas",Metropolitana Pop
-https://ice.fabricahost.com.br/metrosppop
+#EXTINF:-1 group-title="Só Musicas",Rádio Nova Instrumental
+https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
